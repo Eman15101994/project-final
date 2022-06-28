@@ -1,0 +1,51 @@
+
+h1 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(60, 28, 1);
+    font-size: 45pt;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+/*
+.table {
+    
+    text-shadow: 50%;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'PT Serif', serif;
+    color: rgb(50, 30, 2);
+    font-size: 16.5pt;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    padding: 15px;
+    border: 80px;
+    border: 2px solid rgb(59, 21, 3);
+    border-color: rgb(59, 21, 1);
+    caption-side: bottom;
+    background-color: rgba(150, 131, 108, 0.241);
+}*/
+.ss{
+    display: inline-block;
+    padding: 0.375rem 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #212529;
+    background-color: #f8fafc;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.logo-image{
+    width: 60px;
+    height: 60px;
+}
+.body{
+    
+    background-image:  linear-gradient(57deg,rgb(242, 222, 192) 0%,rgb(244, 245, 245) 46.63%,rgb(202, 159, 135) 100%)
+}
